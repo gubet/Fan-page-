@@ -5,23 +5,28 @@ body{
     border: 5px solid black;
     border-radius: 5%;
 }
+
 div{
     color: black;
     font-family: Times New Roman, Times, serif;
 }
+
 .gubet {
     border: 10px black;
     border-radius: 100px;
 }
+
 .img-responsive{
     border: 10px black;
     border-radius: 100px;
     height: 200;
     width: 400;
 }
+
 p {
     color: black;
 }
+
 .container {
   color: black;
   background-color: white;
