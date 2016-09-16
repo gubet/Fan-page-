@@ -1,6 +1,7 @@
 body{
     padding: 5px 5px 5px 5px;
     margin: 10px 10px 10px 10px;
+    background-color: black;
 }
 .container {
   color: black;
@@ -15,4 +16,8 @@ div{
 }
 p {
     color: black;
+}
+.img {
+    height: 200;
+    width:200;
 }
