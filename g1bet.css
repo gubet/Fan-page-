@@ -12,7 +12,7 @@ body{
 }
 div{
     color: black;
-    font-family: Times New Roman, Times, serif;
+    font-family: Arial, Times, serif;
 }
 p {
     color: black;
@@ -20,4 +20,15 @@ p {
 .img {
     height: 200;
     width:200;
+}
+.presentation {
+    float:left;
+}
+ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: white;
+    float:center;
 }
