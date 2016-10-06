@@ -1,25 +1,20 @@
 body{
     padding: 5px 5px 5px 5px;
     margin: 10px 10px 10px 10px;
-    background-color: black;
+    background-image: url("http://seattlerats.org/wp-content/uploads/2015/03/Soccer-Field-Night1.jpg")
 }
-.container {
-  color: black;
-  background-color: white;
-  padding-top: 15px;
-  margin-bottom: 15px;
-  margin-top: 15px;
+.container {    
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 div{
-    color: black;
     font-family: Arial, Times, serif;
 }
 p {
     color: black;
-}
-.img {
-    height: 200;
-    width:200;
 }
 .presentation {
     float:left;
@@ -29,6 +24,29 @@ ul{
     margin:0;
     padding:0;
     overflow:hidden;
-    background-color: white;
+    background-color: lightgreen;
     float:center;
+}
+.footer{
+    position: relative;
+    line-height: 1.5;
+    color: gray;
+    border-top: 1px solid white;
+}
+.container1{
+    background-color: lightgreen;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.container2{
+    background-image:url("http://www.soccerpro.com/images/Products/category_icons/wallpaper_thumb_messi.jpg");
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 75px;
+    margin-left: 75px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
 }
